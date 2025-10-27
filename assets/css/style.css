@@ -42,6 +42,10 @@ p {
     margin: 15px 0 20px 0;
 }
 
+a{
+    text-decoration: none;
+}
+
 .section-p1 {
     padding: 40px 80px;
 }
@@ -143,7 +147,7 @@ body {
 }
 
 #hero-video .back-video{
-    background-image: url(/e-commerce/assets/img/video.mp4);
+    background-image: url(/assets/img/video.mp4);
     background-repeat: no-repeat;
     background-size: cover;
     right: 0;
@@ -205,7 +209,7 @@ body {
 /* Hero page */
 
 #hero {
-    background-image: url('/e-commerce/assets/img/banner/banner.jpeg');
+    background-image: url('/assets/img/banner/banner.jpeg');
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -226,7 +230,7 @@ body {
 }
 
 #hero button {
-    background-image: url("/e-commerce/assets/img/button.png");
+    background-image: url("/assets/img/button.png");
     background-color: transparent;
     border: none;
     padding: 14px 80px 14px 65px;
@@ -383,7 +387,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-image: url("/e-commerce/assets/img/banner/b2.jpg");
+    background-image: url("/assets/img/banner/b2.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -420,7 +424,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-image: url("/e-commerce/assets/img/banner/b17.webp");
+    background-image: url("/assets/img/banner/b17.webp");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -429,7 +433,7 @@ body {
 }
 
 #sm-banner .banner-box2 {
-    background-image: url("/e-commerce/assets/img/banner/b10.webp");
+    background-image: url("/assets/img/banner/b10.webp");
 }
 
 #sm-banner h4 {
@@ -467,7 +471,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    background-image: url("/e-commerce/assets/img/banner/b7.webp");
+    background-image: url("/assets/img/banner/b7.webp");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -477,11 +481,11 @@ body {
 }
 
 #banner3 .banner-box2 {
-    background-image: url("/e-commerce/assets/img/banner/b4.webp");
+    background-image: url("/assets/img/banner/b4.webp");
 }
 
 #banner3 .banner-box3 {
-    background-image: url("/e-commerce/assets/img/banner/b18.jpg");
+    background-image: url("/assets/img/banner/b18.jpg");
 
 }
 
@@ -506,7 +510,7 @@ body {
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("/e-commerce/assets/img/banner/b14.png");
+    background-image: url("/assets/img/banner/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -621,7 +625,7 @@ footer .copyright {
 /* shop page */
 
 #page-header {
-    background-image: url('/e-commerce/assets/img/banner/b1.jpg');
+    background-image: url('/assets/img/banner/b1.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
