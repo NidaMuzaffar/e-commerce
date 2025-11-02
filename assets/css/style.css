@@ -205,6 +205,15 @@ body {
     left: 20px;
 }
 
+#moilbe,
+#mobile {
+    display: none;
+    align-items: center;
+}
+
+#close{
+    display: none;
+}
 /* Home page */
 /* Hero page */
 
